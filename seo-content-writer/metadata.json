@@ -1,0 +1,6 @@
+{
+  "name": "SEO Content Writer",
+  "description": "An expert AI SEO content writer and strategist to generate search-optimized, naturally written blog articles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
